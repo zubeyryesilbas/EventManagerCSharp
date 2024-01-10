@@ -2,6 +2,8 @@
 This is the repo that i created simple event manager in c# to handle events with paramaters.
 It can be used like below 
 
+# Example Usage
+```
 public class ExampleUsage
 {
     public static void Main()
@@ -28,4 +30,4 @@ public class ExampleUsage
         Console.WriteLine($"Score increased! New score: {score}");
     }
 }
-
+```
